@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Powerlifting",
+        "slug": "powerlifting",
+        "description": "Intensive strength training focused on lifting heavy weights to build muscle mass and strength.",
+        "price": 2500,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/powerlifting.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Weight Loss Program",
+        "slug": "weight-loss-program",
+        "description": "Tailored program combining cardio, strength training, and nutrition guidance for effective weight loss.",
+        "price": 3000,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "/courses/weightLoss.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Zumba Classes",
+        "slug": "zumba-classes",
+        "description": "High-energy dance fitness classes with Latin and international music to improve cardiovascular health and coordination.",
+        "price": 2000,
+        "instructor": "Maria Garcia",
+        "isFeatured": true,
+        "image": "/courses/zumba.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Swimming Lessons",
+        "slug": "swimming-lessons",
+        "description": "Swimming classes for all levels, focusing on technique improvement and fitness enhancement.",
+        "price": 2800,
+        "instructor": "Michael Johnson",
+        "isFeatured": true,
+        "image": "/courses/swim.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Yoga Classes",
+        "slug": "yoga-classes",
+        "description": "Classes that promote flexibility, strength, and mental relaxation through various yoga postures and breathing exercises.",
+        "price": 2200,
+        "instructor": "Emily Brown",
+        "isFeatured": true,
+        "image": "/courses/Yoga.png"
+      },
+      {
+        "id": 6,
+        "title": "Cardiovascular Training",
+        "slug": "cardiovascular-training",
+        "description": "A comprehensive cardio workout program designed to improve heart health and stamina through various exercises.",
+        "price": 2400,
+        "instructor": "David Lee",
+        "isFeatured": true,
+        "image": "/courses/cardiovascular.jpeg"
+      }
+    ]
+  }
+  

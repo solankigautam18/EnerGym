@@ -5,7 +5,7 @@ const Testimonials = [
       {
         quote: "Joining this gym has been a life-changing experience for me. The trainers are incredibly supportive and the facilities are top-notch.",
         name: "John Doe",
-        title: "Fitness Enthusiast"
+        title: "PowerLifting Client"
       },
       {
         quote: "The group classes are fantastic! I've tried Zumba, Yoga, and Pilates, and every class has been fun and challenging. Highly recommend!",
